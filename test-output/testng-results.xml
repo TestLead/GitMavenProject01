@@ -2,28 +2,28 @@
 <testng-results skipped="0" failed="0" total="1" passed="1">
   <reporter-output>
     <line>
-      <![CDATA[HELLO]]>
+      <![CDATA[HELLO As an TE1 updated code in TE1 terminal]]>
     </line>
     <line>
       <![CDATA[HELLO I am testing Maven]]>
     </line>
   </reporter-output>
-  <suite name="Default suite" duration-ms="107" started-at="2020-01-16T02:58:21Z" finished-at="2020-01-16T02:58:22Z">
+  <suite name="Default suite" duration-ms="46" started-at="2020-01-16T04:26:40Z" finished-at="2020-01-16T04:26:40Z">
     <groups>
     </groups>
-    <test name="Default test" duration-ms="107" started-at="2020-01-16T02:58:21Z" finished-at="2020-01-16T02:58:22Z">
-      <class name="tests.DemoTest">
-        <test-method status="PASS" signature="openMyBlog()[pri:0, instance:tests.DemoTest@f5e5e3]" name="openMyBlog" duration-ms="51" started-at="2020-01-16T08:28:22Z" finished-at="2020-01-16T08:28:22Z">
+    <test name="Default test" duration-ms="46" started-at="2020-01-16T04:26:40Z" finished-at="2020-01-16T04:26:40Z">
+      <class name="tests.DemoTest2">
+        <test-method status="PASS" signature="openMyBlog()[pri:0, instance:tests.DemoTest2@f5e5e3]" name="openMyBlog" duration-ms="22" started-at="2020-01-16T09:56:40Z" finished-at="2020-01-16T09:56:40Z">
           <reporter-output>
             <line>
-              <![CDATA[HELLO]]>
+              <![CDATA[HELLO As an TE1 updated code in TE1 terminal]]>
             </line>
             <line>
               <![CDATA[HELLO I am testing Maven]]>
             </line>
           </reporter-output>
         </test-method> <!-- openMyBlog -->
-      </class> <!-- tests.DemoTest -->
+      </class> <!-- tests.DemoTest2 -->
     </test> <!-- Default test -->
   </suite> <!-- Default suite -->
 </testng-results>
